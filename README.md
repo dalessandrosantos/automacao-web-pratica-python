@@ -7,7 +7,7 @@ Projeto de prática de automação em Python usando **PyAutoGUI** para preencher
 - Lê o arquivo `produtos.csv` com **pandas**.
 - Abre o navegador (Chrome) via atalhos de teclado.
 - Acessa a página de login da Hashtag Treinamentos.
-- Faz login automaticamente.
+- Faz login.
 - Percorre cada linha da tabela e cadastra os produtos no formulário da página.
 
 ## Requisitos
